@@ -1,6 +1,6 @@
 ### Ram Pavan (rampavandev) :wave:
 
-- 🔭 A Reactjs, Nodejs, Typescript software developer.
+-    A Reactjs, Nodejs, Typescript software developer.
 -    Based in Bengaluru, India.
 -    Agile Software Development
 -    Hacking in Golang, Python, Clojure, Perl
