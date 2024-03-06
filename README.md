@@ -9,5 +9,5 @@
 ### Get in touch 📧
 
 - [LinkedIn](https://www.linkedin.com/in/ramgajulapalli/)
-- [Mastodon]([https://www.linkedin.com/in/ramgajulapalli/](https://mastodon.social/@rampavandev))
+- [Mastodon](https://mastodon.social/@rampavandev/)
 ⭐️ From [rampavandev](https://github.com/rampavandev)
