@@ -3,7 +3,7 @@
 -    A Reactjs, Nodejs, Typescript software developer.
 -    Based in Bengaluru, India.
 -    Agile Software Development
--    Hacking in Golang, Python, Clojure, Perl
+-    Exporing Golang, Python
 -    Web applications
 
 ### Get in touch 📧
